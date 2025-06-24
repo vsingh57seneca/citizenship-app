@@ -124,7 +124,7 @@ const Quiz = () => {
               <button
                 onClick={() => toggleOption(opt)}
                 disabled={isSubmitted}
-                className={`w-full px-4 py-2 text-left border rounded font-semibold ${
+                className={`w-full px-4 py-2 text-left border rounded font-semibold cursor-pointer ${
                   isSubmitted
                     ? isCorrectAnswer
                       ? "bg-green-200 text-black font-semibold"
@@ -151,7 +151,7 @@ const Quiz = () => {
             (question.select_limit &&
               selectedOptions.length !== question.select_limit)
               ? "bg-gray-400 cursor-not-allowed"
-              : "bg-blue-600 hover:bg-blue-700"
+              : "bg-blue-600 hover:bg-blue-700 cursor-pointer"
           } text-white`}
           disabled={
             selectedOptions.length === 0 ||

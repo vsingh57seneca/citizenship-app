@@ -291,21 +291,21 @@
   {
     "id": 28,
     "q": "What is the name of the President of the United States now?",
-    "answers": ["*Current president*"],
+    "answers": ["Donald Trump"],
     "wrong_answers": [
-      "The vice president",
-      "The Speaker of the House",
-      "The Chief Justice"
+      "Barack Obama",
+      "Joseph Biden",
+      "Kamala Harris"
     ]
   },
   {
     "id": 29,
     "q": "What is the name of the Vice President of the United States now?",
-    "answers": ["*Current vice president*"],
+    "answers": ["JD Vance"],
     "wrong_answers": [
-      "The Secretary of State",
-      "The Senate Majority Leader",
-      "The governor of California"
+      "Kamala Harris",
+      "Mike Pence",
+      "Joseph Biden"
     ]
   },
   {
@@ -424,17 +424,17 @@
   {
     "id": 39,
     "q": "How many justices are on the Supreme Court?",
-    "answers": ["*Current number* (e.g., nine)"],
+    "answers": ["Eleven (11)"],
     "wrong_answers": ["Five (5)", "Twelve (12)", "Fifty (50)"]
   },
   {
     "id": 40,
     "q": "Who is the Chief Justice of the United States now?",
-    "answers": ["*Current Chief Justice*"],
+    "answers": ["John Roberts"],
     "wrong_answers": [
-      "The president",
-      "The Speaker of the House",
-      "The Attorney General"
+      "William Rehnquist",
+      "Warren Burger",
+      "Harian Stone"
     ]
   },
   {
@@ -506,9 +506,9 @@
   {
     "id": 46,
     "q": "What is the political party of the President now?",
-    "answers": ["*Current party*"],
+    "answers": ["Republican"],
     "wrong_answers": [
-      "The opposite party",
+      "Democratic",
       "Independent",
       "Green Party"
     ]
@@ -516,11 +516,11 @@
   {
     "id": 47,
     "q": "What is the name of the Speaker of the House of Representatives now?",
-    "answers": ["*Current Speaker*"],
+    "answers": ["Mike Johnson"],
     "wrong_answers": [
-      "The vice president",
-      "The Chief Justice",
-      "The Secretary of State"
+      "Kevin McCarthy",
+      "Nancy Pelosi",
+      "Paul Ryan"
     ]
   },
   {
